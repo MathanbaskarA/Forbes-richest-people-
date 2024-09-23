@@ -1,4 +1,5 @@
-# Forbes-richest-people-Description: **Exploring the Forbes Billionaires Dataset**
+# Forbes-richest-people
+#Description: **Exploring the Forbes Billionaires Dataset**
 
 This project focuses on analyzing the **Forbes Billionaires Dataset**, which contains detailed information on 2,755 of the world’s wealthiest individuals. The aim of this project is to uncover insights, trends, and patterns that can shed light on the characteristics of billionaires, such as their **net worth**, **age**, **country of origin**, and **industry**.
 
